@@ -1,0 +1,8 @@
+flask>=2.0.0
+flask_restful
+numpy
+pandas
+joblib
+xgboost==1.6.1
+scikit-learn
+requests
