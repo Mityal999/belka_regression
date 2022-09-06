@@ -10,6 +10,7 @@ version 2: "Вторая версия"
 
 The data is sent normally. 
 Launching docker containter will automatically run the app.py file.
+! Open port 5000 in docker run options !
 Test with Postman. Link is above.
 
 
